@@ -4,8 +4,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/samuelematias.svg?style=social)](https://twitter.com/samuelematias)
 
-[Access it](https://samuelematias.github.io/cv-eng/)
-
 In this repo you can find the CV in English that I made in HTML and its PDF.
 
 [View page](https://samuelematias.github.io/cv-eng/)
