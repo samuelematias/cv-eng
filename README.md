@@ -10,4 +10,4 @@ In this repo you can find the CV in English that I made in HTML and its PDF.
 
 [View page](https://samuelematias.github.io/cv-eng/)
 
-[Download PDF](https://drive.google.com/file/d/1Rgom0r-kG-9uc9AnL1nva48sK0dxbqCX/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/1scVURh7IS8IfSv1r2N07IqgjXOiZtYGV/view?usp=sharing)
